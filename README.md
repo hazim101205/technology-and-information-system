@@ -4,3 +4,8 @@ Name : Muhammad Hazim Bin Zulkanain \
 course : 1/SECRH \
 Lecturer : Dr Haswadi Bin Hasan \
 Section : 05 
+
+
+# Projects
+🍂 [PC Assemble](https://github.com/hazim101205/technology-and-information-system/tree/main/PC%20Assemble) \
+njjsc
